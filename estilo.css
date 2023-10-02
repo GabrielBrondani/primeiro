@@ -1,0 +1,14 @@
+#corDeFundo01
+{
+    background-color: brown;
+}
+
+.espaco01
+{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 25px;
+}
